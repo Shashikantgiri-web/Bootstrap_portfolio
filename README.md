@@ -50,7 +50,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For any questions or concerns, please contact us at [your-email@example.com](mailto:shashikantshankar707@gmail.com).
+For any questions or concerns, please contact us at [shashikantshankar707@gmail.com](mailto:shashikantshankar707@gmail.com).
 
 ## 💖 Thanks Message
 A huge thank you to everyone who has contributed to this project! 🙏
